@@ -1,0 +1,8 @@
+{
+  "name": "modern_day_js_boilerplate",
+  "version": "1.0.0",
+  "description": "a modern stack for any modern day javascript application",
+  "main": "index.js",
+  "author": "Arthur Head",
+  "license": "MIT"
+}
