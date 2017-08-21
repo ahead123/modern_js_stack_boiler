@@ -4,5 +4,8 @@
   "description": "a modern stack for any modern day javascript application",
   "main": "index.js",
   "author": "Arthur Head",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+  	"start": "node ."
+  }
 }
